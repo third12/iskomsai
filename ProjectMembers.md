@@ -13,3 +13,4 @@ Student Module:
 Alumni Module:
 
     Anfernee Sodusta
+	Rogelio Dela Cruz III
